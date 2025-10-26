@@ -17,7 +17,7 @@ This dApp provides a complete, end-to-end user journey, from discovery and verif
 
 ### **Core Features**
 
--   **Professional UI/UX:** A sleek, modern, and fully responsive dark-themed interface built for a professional fintech experience.
+-   **Professional UI/UX:** A sleek, modern, and fully responsive dark-themed interface built for a professional fintech experience. It also has a breathing background
 -   **Privacy-Preserving KYC:** A cutting-edge compliance layer using **World ID** for "Proof of Personhood," demonstrating a real-world, privacy-first approach to user verification.
 -   **The "Executive" Dashboard:** A powerful portfolio overview that provides users with a high-level summary of their total investments, blended APY, asset allocation, and detailed breakdowns of each holding.
 -   **The "Glass Cockpit":** Radical transparency with direct links to Etherscan for all projects, transactions, and assets, providing irrefutable on-chain proof.
